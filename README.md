@@ -1,2 +1,0 @@
-# travel-tours-landing
-web
