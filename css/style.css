@@ -1,8 +1,6 @@
 @charset "UTF-8";
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;
-
-500;600;700&family=Mulish:wght@300;700&family=Playfair+Display:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Mulish:wght@300;700&family=Playfair+Display:wght@700&display=swap");
 @font-face {
   font-family: "icons";
   font-display: swap;
@@ -1028,6 +1026,7 @@ body.ie ._ibg img {
 .header__content {
   max-width: 1240px;
   padding: 0 10px;
+  margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1122,6 +1121,7 @@ body.ie ._ibg img {
 .footer__content {
   max-width: 1240px;
   padding: 0 10px;
+  margin: 0 auto;
 }
 
 .footer__header {
