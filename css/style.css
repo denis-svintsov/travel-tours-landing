@@ -1938,6 +1938,7 @@ body.ie ._ibg img {
 
   .menu-footer__link:hover {
     color: #333333;
+    text-decoration: underline;
   }
 
   .social-footer__link:hover {
